@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.exe
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.deps.json
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.pdb
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\refint\automa_o_de_truncagem_de_logs_27b9a1.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.pdb
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\ref\automa_o_de_truncagem_de_logs_27b9a1.dll
