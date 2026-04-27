@@ -1,0 +1,4 @@
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-27b9a1\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_27b9a1.csproj.CoreCompileInputs.cache
