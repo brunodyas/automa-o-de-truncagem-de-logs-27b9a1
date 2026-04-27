@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("automa_o_de_truncagem_de_logs_27b9a1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3750940925f0609f38c8caedafd606e282d2f603")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f7af884c1626bb8148be1b55f2305d5f5a5f1ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("automa_o_de_truncagem_de_logs_27b9a1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("automa_o_de_truncagem_de_logs_27b9a1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
